@@ -1,9 +1,9 @@
-Archivos con contraseñas o secretos
+# Archivos con contraseñas o secretos
 secreto.txt
 .env
 
-Registros (logs)
+# Registros (logs)
 *.log
 
-Copias de seguridad locales
+# Copias de seguridad locales
 copias/
