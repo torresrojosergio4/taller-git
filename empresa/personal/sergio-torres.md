@@ -20,3 +20,4 @@ Sergio Torres Rojo
 
 * Lo que quiero aprender: Utilizar todas las nuevas tecnologías.
 
+* Afición: aprender Git y montar ordenadores
