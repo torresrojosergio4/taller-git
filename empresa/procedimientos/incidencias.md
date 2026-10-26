@@ -14,3 +14,4 @@ Cuando alguien avisa de un problema:
 | 07/10/2026 | imp-recepcion | Atasco de papel continuo | Cambiado el rodillo de arrastre | Ana |
 | 08/10/2026 | pc-recepcion | Va muy lento al abrir el correo | Pendiente: valorar ampliar la RAM | Javi |
 | 22/10/2026 | pc-aula1-03 | No detecta el ratón | Cambiado de puerto USB | Sergio Torres |
+| 23/10/2026 | pc-aula2-05 | No conecta a la red WiFi | Reconectado a la red del aula | Lucas |
